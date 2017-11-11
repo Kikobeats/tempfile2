@@ -1,7 +1,5 @@
 # tempfile2
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/tempfile2.svg)](https://greenkeeper.io/)
-
 ![Last version](https://img.shields.io/github/tag/Kikobeats/tempfile2.svg?style=flat-square)
 [![Build Status](http://img.shields.io/travis/Kikobeats/tempfile2/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/tempfile2)
 [![Coverage Status](https://img.shields.io/coveralls/Kikobeats/tempfile2.svg?style=flat-square)](https://coveralls.io/github/Kikobeats/tempfile2)

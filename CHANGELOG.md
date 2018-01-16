@@ -1,3 +1,12 @@
+<a name="2.0.4"></a>
+## 2.0.4 (2018-01-16)
+
+* fix(package): update uuid to version 3.2.0 ([68fd98b](https://github.com/kikobeats/tempfile2/commit/68fd98b))
+* Update README.md ([d10d48e](https://github.com/kikobeats/tempfile2/commit/d10d48e))
+* docs(readme): add Greenkeeper badge ([65d8988](https://github.com/kikobeats/tempfile2/commit/65d8988))
+
+
+
 <a name="2.0.3"></a>
 ## 2.0.3 (2017-07-18)
 

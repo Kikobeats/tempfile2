@@ -1,4 +1,5 @@
 # tempfile2
+# ARCHIVED: Use [tempy](https://github.com/sindresorhus/tempy) instead, same API, less deps!
 
 ![Last version](https://img.shields.io/github/tag/Kikobeats/tempfile2.svg?style=flat-square)
 [![Build Status](http://img.shields.io/travis/Kikobeats/tempfile2/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/tempfile2)
